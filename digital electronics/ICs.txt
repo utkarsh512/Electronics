@@ -1,0 +1,14 @@
+74xx
+----
+7447 - Encode binary representation for 7 seg dispaly - exp 1
+7483 - 4-bit adder circuit - exp 5
+7490 - To convert a counter to its binary form - exp 1
+7493 - To convert a counter to its binary form - exp 1
+
+
+74xxx
+------
+74138 - 3-to-8 decoder with active low outputs - exp 3
+74157 - Nibble multiplexer - exp 4
+74173 - Bus (either completely enabling inputs or completely disabling it) - exp 7
+74273 - 8-bit positive edge-triggered DFF - exp 6
